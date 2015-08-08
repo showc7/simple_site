@@ -1,0 +1,10 @@
+{
+	"name": "simple_site",
+	"description": "A simple vibe.d server application.",
+	"copyright": "Copyright © 2015, user",
+	"authors": ["user"],
+	"dependencies": {
+		"vibe-d": "~>0.7.19"
+	},
+	"versions": ["VibeDefaultMain"]
+}
